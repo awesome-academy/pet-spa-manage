@@ -5,7 +5,7 @@ Member:
 - Hoàng Thị Liên
 
 Redmine: 
-https://edu-redmine.sun-asterisk.vn/projects/pet-spa-manage
+https://edu-redmine.sun-asterisk.vn/projects/money-lover
 
 Redmine Flow
 1. Tất cả công việc cần làm (Bug/Task/Feature/Support) phải được tạo ticket trước rồi mới thực hiện. Lưu ý ticket cần có description rõ ràng.

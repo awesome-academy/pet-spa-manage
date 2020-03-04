@@ -5,7 +5,7 @@ ruby "2.5.1"
 
 gem "rails", "~> 5.2.2", ">= 5.2.2.1"
 gem "mysql2", ">= 0.4.4", "< 0.6.0"
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem "i18n"
 gem "i18n-js"
 gem "config"
